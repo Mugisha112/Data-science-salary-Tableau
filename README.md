@@ -20,4 +20,4 @@ Data Description:
 
 9	Company_size - The size of the companies, classified as "L" (Large), "M" (Medium), and "S" (Small).
 
-Analyze salary trend over time by experience level, average salary by experience, interactive top 15 average salary by job title, top 30 average salary by location.
+Use Tableau to analyze salary trend over time by experience level, average salary by experience, interactive top 15 average salary by job title, top 30 average salary by location.
